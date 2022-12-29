@@ -11,7 +11,7 @@ public class StringPrograms {
 		{
 		 rev=rev+s[i]+" ";
 		}
-		System.out.println("Reverse String is : "+rev);
+		System.out.println("Reverse String is:"+rev);
 		
 		
 	}
